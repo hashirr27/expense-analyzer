@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "expense-analyzer"
+version = "1.0.0"
+description = "Command-line tool that imports bank CSV files, categorizes spending, and finds recurring charges and unusual purchases."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []          # standard library only
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+expense-analyzer = "expense_analyzer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+expense_analyzer = ["default_rules.json"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

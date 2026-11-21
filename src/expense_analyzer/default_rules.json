@@ -1,0 +1,17 @@
+{
+  "Income": ["payroll", "direct deposit", "salary", "paycheque", "paycheck", "interest paid", "cra refund", "tax refund", "gst credit", "canada child"],
+  "Transfers": ["e-transfer", "etransfer", "interac e-transfer", "online transfer", "transfer to", "transfer from", "credit card payment", "visa payment", "mastercard payment", "payment - thank you", "payment thank you"],
+  "Housing": ["rent", "mortgage", "landlord", "property tax", "condo fee", "tenant insurance", "home insurance"],
+  "Utilities": ["hydro", "centra gas", "enbridge", "water bill", "electric", "shaw", "telus", "bell mobility", "bell canada", "rogers", "fido", "koodo", "freedom mobile", "virgin plus", "internet", "mts"],
+  "Groceries": ["save-on-foods", "save on foods", "superstore", "safeway", "sobeys", "co-op food", "costco", "no frills", "freshco", "loblaws", "metro", "grocery", "farm boy", "giant tiger", "food basics", "foodland", "t&t", "h mart"],
+  "Dining": ["restaurant", "mcdonald", "tim hortons", "starbucks", "subway", "a&w", "pizza", "sushi", "kfc", "wendy", "burger king", "doordash", "skipthedishes", "skip the dishes", "uber eats", "cafe", "coffee", "bakery", "pub", "grill", "bistro", "dairy queen", "chipotle", "boston pizza"],
+  "Transport": ["petro-canada", "petro canada", "shell", "esso", "husky", "gas station", "co-op gas", "transit", "uber", "lyft", "parking", "car wash", "mpi", "autopac", "taxi", "via rail", "greyhound"],
+  "Subscriptions": ["netflix", "spotify", "disney", "crave", "apple.com/bill", "youtube premium", "amazon prime", "icloud", "google storage", "google one", "adobe", "openai", "chatgpt", "claude.ai", "anthropic", "dropbox", "microsoft 365", "github", "patreon", "audible", "hulu", "paramount", "twitch"],
+  "Fitness": ["goodlife", "anytime fitness", "gym", "fitness", "ymca", "yoga", "planet fitness", "crossfit", "climbing"],
+  "Health": ["pharmacy", "shoppers drug", "london drugs", "rexall", "dental", "dentist", "clinic", "physio", "optometr", "medical", "hospital", "pharmasave"],
+  "Shopping": ["amazon", "best buy", "canadian tire", "ikea", "winners", "h&m", "apple store", "the source", "dollarama", "walmart", "target", "marshalls", "old navy", "zara", "mobilesentrix", "aliexpress", "alibaba", "ebay", "staples", "home depot", "rona", "lowe"],
+  "Entertainment": ["cineplex", "steam", "playstation", "xbox", "nintendo", "ticketmaster", "theatre", "cinema", "movie", "concert", "museum", "bowling", "arcade"],
+  "Travel": ["airline", "air canada", "westjet", "flair", "hotel", "airbnb", "expedia", "booking.com", "vrbo", "porter airlines", "motel"],
+  "Education": ["university", "tuition", "udemy", "coursera", "textbook", "bookstore", "college", "course fee", "pluralsight"],
+  "Fees": ["service charge", "monthly fee", "account fee", "nsf", "overdraft", "interest charge", "atm fee", "annual fee", "foreign exchange fee"]
+}

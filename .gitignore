@@ -1,0 +1,24 @@
+# Your real bank data and database stay on your computer: never commit them
+*.db
+*.sqlite
+rules.json
+my_statements/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Output
+report.html
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
